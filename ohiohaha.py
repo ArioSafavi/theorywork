@@ -1,0 +1,2 @@
+import spells
+spells.ohio()
